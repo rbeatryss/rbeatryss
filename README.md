@@ -37,8 +37,8 @@ I'm a fullstack developer with a strong technical foundation and a passion for c
 ## 🌐 Contact
 
 - [Website](rbeatryss.vercel.app)
-- [LinkedIn](https://www.linkedin.com/in/beatryss-r/)
-- [Email] (beta.ratz@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/beatryss-r)
+- [Email](beta.ratz@gmail.com)
 
 Feel free to reach out for collaboration, discussions, or anything else related to development and cybersecurity 🚀
 

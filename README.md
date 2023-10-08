@@ -1,6 +1,6 @@
 # Hello World, I'm Beatryss 👋
 
-I'm a fullstack developer with a strong technical foundation and a passion for cybersecurity. My experience in management complements my technical skills, enhancing my ability to lead and collaborate effectively within development teams. I also have a certified knowledge of graphic design, which further enhances my fullstack capabilities to create visually appealing and functional applications.
+I'm a fullstack developer with a strong technical foundation and a passion for cybersecurity. My experience in management complements my technical skills, enhancing my ability to lead and collaborate effectively within development teams. I also have certified knowledge of graphic design, which further enhances my fullstack capabilities to create visually appealing and functional applications.
 
 🌟 About me:
 

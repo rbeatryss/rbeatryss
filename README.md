@@ -34,17 +34,11 @@ I'm a fullstack developer with a strong technical foundation and a passion for c
 - Creativity
 - Organization
 
-## 📊 Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbeatryss&show_icons=true&count_private=true)](https://github.com/rbeatryss)
-
 ## 🌐 Contact
 
 - [Website](rbeatryss.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/beatryss-r/)
-- Email: beta.ratz@gmail.com
-
-![HTML](icons/html.png) ![CSS](icons/css.png) ![JavaScript](icons/js.png) ![PHP](icons/php.png) ![Laravel](icons/laravel.png) ![MongoDB](icons/mongodb.png) ![Express](icons/express.png) ![Node.js](icons/nodejs.png) ![MySQL](icons/mysql.png) ![Adobe](icons/adobe.png) ![Office](icons/office.png) ![Excel](icons/excel.png)
+- [Email] (beta.ratz@gmail.com)
 
 Feel free to reach out for collaboration, discussions, or anything else related to development and cybersecurity 🚀
 

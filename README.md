@@ -7,7 +7,7 @@ I'm a fullstack developer with a strong technical foundation and a passion for c
 - 🔐 Cybersecurity Enthusiast
 - 🚀 Strong Believer in Agile (SCRUM)
 - 🎨 Certified Graphic Designer
-- 💬 Multilingual: EN, ES, UKR, RU
+- 💬 Multilingual: EN, ES, UKR
 
 ## 💻 Tech Stack
 
